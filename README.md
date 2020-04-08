@@ -1,4 +1,4 @@
-# C-sample-codes
+# CPP-SAMPLE-CODES
 
 This file contains a c++ program
 # Problem statement :
