@@ -1,0 +1,6 @@
+1	Akshay	50	1000
+2	Twinkle	46	2000
+3	Ranveer	35	3000
+4	Dipika	34	4000
+5	SRK	50	5000
+6	KAJOL	48	6000
